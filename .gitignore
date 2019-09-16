@@ -5,3 +5,8 @@ dist/
 
 # PyCharm
 .idea/
+env/*
+data/*
+model
+parlai
+__pycache__
